@@ -11,7 +11,7 @@ class WindowSize:
     height_px: int
 
 
-DEFAULT_WINDOW_SIZE = WindowSize(width_px=1200, height_px=1924)
+DEFAULT_WINDOW_SIZE = WindowSize(width_px=1200, height_px=2500)
 
 
 def to_geometry(size: WindowSize) -> str:
