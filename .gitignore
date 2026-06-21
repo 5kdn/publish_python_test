@@ -1,0 +1,33 @@
+# Python bytecode and interpreter artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and packaging artifacts
+build/
+dist/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Virtual environments and local Python version managers
+.venv/
+.env/
+venv/
+ENV/
+
+# Tool caches and test reports
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# PyInstaller outputs
+*.pyz
+
+# Local editor and OS artifacts
+Thumbs.db
