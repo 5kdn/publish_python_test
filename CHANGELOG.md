@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.0](https://github.com/5kdn/publish_python_test/compare/publish-python-v0.3.0...publish-python-v0.4.0) (2026-06-21)
+
+
+### Features
+
+* もっとでかく ([#8](https://github.com/5kdn/publish_python_test/issues/8)) ([7cf691d](https://github.com/5kdn/publish_python_test/commit/7cf691d72804782c55a3ee560a70598123476657))
+* 画面サイズでかくした ([aa9c6ed](https://github.com/5kdn/publish_python_test/commit/aa9c6eda255fbe71c7a09be54941d874037ba600))
+
 ## [0.3.0](https://github.com/5kdn/publish_python_test/compare/publish-python-v0.2.0...publish-python-v0.3.0) (2026-06-21)
 
 
