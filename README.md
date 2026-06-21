@@ -1,0 +1,3 @@
+# Tkinter によるシンプルなGUIアプリ
+
+画面にHelloworldが表示されるだけのシンプルなpythonによるGUIアプリ
